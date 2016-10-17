@@ -1,8 +1,9 @@
 {
-  "name": "node-conscript",
+  "name": "conscript",
   "version": "1.0.0",
   "description": "Simplified interface to scripting interaction with child processes",
   "main": "index.js",
+  "repository": "http://github.com/tallin32/conscriptjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,7 @@
     "scripting",
     "automation"
   ],
-  "author": "Chris Meredith",
+  "author": "tallin32@icloud.com",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",
