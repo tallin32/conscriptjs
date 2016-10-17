@@ -1,0 +1,25 @@
+{
+  "name": "node-conscript",
+  "version": "1.0.0",
+  "description": "Simplified interface to scripting interaction with child processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "child",
+    "process",
+    "console",
+    "scripting",
+    "automation"
+  ],
+  "author": "Chris Meredith",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "process_tree": "^1.0.4"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.4.2"
+  }
+}
